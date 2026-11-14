@@ -11,10 +11,10 @@ de integración continua que ejecuta automáticamente
 pruebas cada vez que se realizan cambios en el repositorio.
 
 ## 2. Integrantes
-
-- Integrante 1: Copaticona Nolasco, Ronald
-- Integrante 2: Quirita Llasa Juan Carlos
-- Integrante 2: Tenorio Cartagena, José Miguel
+- Integrante 1: Victor Hugo Briceño Rodriguez
+- Integrante 2: Copaticona Nolasco, Ronald
+- Integrante 3: Quirita Llasa Juan Carlos
+- Integrante 4: Tenorio Cartagena, José Miguel
 
 - Curso: Herramientas de Desarrollo
 
